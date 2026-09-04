@@ -80,7 +80,7 @@ a efectos del RD 1007/2023.
 
 - Página del módulo: <https://easysoft.es/es/verifactu-dolibarr/>
 - Dolistore: <https://www.dolistore.com/product.php?id=2848>
-- Documentación de uso: <https://wiki.easysoft.es>
+- Documentación de uso: <https://wiki.easysoft.es/s/ffc8ab0f-9399-43c2-aa87-52ce7e938229/doc/verifactu-slEi43xirw>
 - Web de la empresa: <https://easysoft.es>
 
 ## Referencias oficiales
