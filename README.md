@@ -192,14 +192,14 @@ factura enviada.
 
 Los dos artículos son de la Orden HAC/1177/2024 y responden a situaciones distintas.
 
-**Volcado (art. 8).** VeriFactu > Volcado registros, para administradores, genera un ZIP con
+**Volcado (art. 8).** Inicio > Custodia SIF > Volcado registros, para administradores, genera un ZIP con
 los XML firmados de facturas y de eventos y un `manifest.json` con periodo, entorno, número
 de registros y fecha. Los XML se empaquetan tal cual se custodiaron, porque volver a
 serializarlos invalidaría la firma, y antes se contrasta cada uno con su huella: lo que no
 cuadra se excluye, se explica y exige una segunda confirmación. La selección va por fecha de
 generación, así que una anulación tardía sale en el volcado del periodo en que se generó.
 
-**Requerimiento (art. 18).** VeriFactu > Requerimiento AEAT pide la referencia (alfanumérica,
+**Requerimiento (art. 18).** Inicio > Custodia SIF > Requerimiento AEAT pide la referencia (alfanumérica,
 sin guiones ni espacios, máximo 18 caracteres), el rango de fechas y si el envío lo cierra o
 quedan más tandas. El módulo reparte los registros firmados en lotes con la cabecera de
 remisión a requerimiento, sin volver a firmarlos, y valida cada lote contra el esquema
