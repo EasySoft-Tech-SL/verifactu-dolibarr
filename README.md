@@ -4,7 +4,7 @@ Documentación pública del módulo **VeriFactu para Dolibarr** de EasySoft Tech
 
 Este repositorio contiene **solo documentación**. El módulo se distribuye desde
 [Dolistore](https://www.dolistore.com/product.php?id=2848) y su página oficial es
-<https://easysoft.es/es/verifactu-dolibarr/>.
+[VeriFactu para Dolibarr, el módulo VeriFactu Dolibarr de EasySoft Tech S.L.](https://easysoft.es/es/verifactu-dolibarr/).
 
 ## Qué es VeriFactu para Dolibarr
 
@@ -293,7 +293,7 @@ en la huella.
 
 ## Enlaces
 
-- Página del módulo: <https://easysoft.es/es/verifactu-dolibarr/>
+- Página del módulo: [módulo VeriFactu Dolibarr de EasySoft Tech S.L.](https://easysoft.es/es/verifactu-dolibarr/)
 - Dolistore: <https://www.dolistore.com/product.php?id=2848>
 - Documentación de uso: <https://wiki.easysoft.es/s/ffc8ab0f-9399-43c2-aa87-52ce7e938229/doc/verifactu-slEi43xirw>
 - Web de la empresa: <https://easysoft.es>
